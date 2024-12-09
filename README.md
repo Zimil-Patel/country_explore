@@ -50,7 +50,7 @@ const String apiUrl = "https://restcountries.com/v3.1/all";
 
 <div align="left">
    
-<img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap1.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap1.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap3.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap1.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap2.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/country_explore/blob/main/snaps/snap3.png" height = 590 width = 300> &nbsp;&nbsp;&nbsp;&nbsp;
 
    
 </div>
